@@ -60,5 +60,3 @@ _ReSharper*/
 *.user
 *.userosscache
 *.sln.docstates.cache
-Weather_MVC/WeatherForecastSimple/obj/Debug/net8.0/WeatherForecastSimple.AssemblyInfo.cs
-Weather_MVC/WeatherForecastSimple/obj/Debug/net8.0/WeatherForecastSimple.AssemblyInfoInputs.cache
