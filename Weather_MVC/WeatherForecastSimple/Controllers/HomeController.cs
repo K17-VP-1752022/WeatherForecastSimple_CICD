@@ -6,11 +6,11 @@ namespace WeatherForecastSimple.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<HomeController> _loggerr;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> loggerr)
     {
-        _logger = logger;
+        _loggerr = loggerr;
     }
 
     public IActionResult Index()

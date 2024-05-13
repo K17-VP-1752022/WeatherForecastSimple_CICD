@@ -1,2 +1,64 @@
 /.config
 /WeatherProject.sln
+
+# Visual Studio temporary files
+.vs/
+obj/
+bin/
+
+# .NET build and debug folders
+Debug/
+Release/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.cache
+*.sln.docstates
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+_ReSharper*/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# Roslyn cache directories
+*.ide/
+*.sln.ide/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates.cache
+Weather_MVC/WeatherForecastSimple/obj/Debug/net8.0/WeatherForecastSimple.AssemblyInfo.cs
+Weather_MVC/WeatherForecastSimple/obj/Debug/net8.0/WeatherForecastSimple.AssemblyInfoInputs.cache
